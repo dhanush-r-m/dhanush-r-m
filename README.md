@@ -9,6 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/in/dhanush-moolemane-b690562b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/dhanush-moolemane-b690562b0" height="30" width="40" /></a>
+<a href="https://kaggle.com/dhanushmoolemane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhanushmoolemane" height="30" width="40" /></a>
+<a href="https://instagram.com/dhanush_r_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhanush_r_m" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dhanush_r_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhanush_r_m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,3 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush-r-m&show_icons=true&locale=en&layout=compact" alt="dhanush-r-m" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanush-r-m&show_icons=true&locale=en" alt="dhanush-r-m" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush-r-m&" alt="dhanush-r-m" /></p>
+
