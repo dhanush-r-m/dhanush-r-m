@@ -78,7 +78,4 @@
   <a href="https://kaggle.com/dhanushmoolemane" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/dhanush_r_m" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
-  </a>
 </p>
