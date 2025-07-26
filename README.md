@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanush Moolemane</h1>
-<h3 align="center">I’m an AI & ML enthusiast passionate about building intelligent systems and exploring the endless possibilities of artificial intelligence. I love working with TensorFlow, OpenCV, and cutting-edge AI agents, and I’m always eager to learn more and contribute to exciting projects in computer vision, deep learning, and generative AI.</h3>
+<h3 align="center">I’m an AI & ML enthusiast passionate about building intelligent systems and exploring the endless possibilities of artificial intelligence. I love working with TensorFlow, OpenCV, and AI agents, and I’m always eager to learn more and contribute to exciting projects in computer vision, deep learning, and generative AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush-r-m&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush-r-m" /> </p>
 
