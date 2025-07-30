@@ -61,14 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush-r-m&show_icons=true&locale=en&layout=compact" alt="dhanush-r-m" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanush-r-m&show_icons=true&locale=en" alt="dhanush-r-m" /></p>
-
----
-
 ## 🔗 Connect with me
 
 <p align="left">
