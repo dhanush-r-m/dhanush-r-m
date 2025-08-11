@@ -17,6 +17,8 @@
 
 ---
 
+<img align="right" alt="Coding" width="1100" src="https://th.bing.com/th/id/R.0cffa04637bbc93f791aad16f6f4add4?rik=cnkpduUBZ%2bD45Q&pid=ImgRaw&r=0" >
+
 ## 🧠 Skills
 
 ### 🤖 AI/ML Frameworks
