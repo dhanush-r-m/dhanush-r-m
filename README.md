@@ -31,14 +31,14 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
 </p>
 
-<p align="right">
-  <img alt="Coding" width="350" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-</p>
-
 ### 🗃️ Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+</p>
+
+<p align="right">
+  <img alt="Coding" width="150" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </p>
 
 ### 🧑‍💻 Languages
@@ -57,16 +57,10 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img alt="Coding" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lzNW52NDZ5NnJqMzdubmpnb3NnNDl0aTQyNDN6N2pydTZuYml4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif">
+<p align="right">
+  <img alt="Coding" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lzNW52NDZ5NnJqMzdubmpnb3NnNDl0aTQyNDN6N2pydTZuYml4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif">
 </p>
 
-### 🛠️ Other Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-</p>
 
 ---
 
