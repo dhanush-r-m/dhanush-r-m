@@ -16,9 +16,11 @@
 - ⚡ Fun fact **I once fixed a bug at 3 AM and still don’t know how I did it! 🌙✨**
 
 ---
+---
 
 <img align="right" alt="Coding" width="1100" src="https://th.bing.com/th/id/R.0cffa04637bbc93f791aad16f6f4add4?rik=cnkpduUBZ%2bD45Q&pid=ImgRaw&r=0" >
 
+----
 ## 🧠 Skills
 
 ### 🤖 AI/ML Frameworks
@@ -29,6 +31,8 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
 </p>
+
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" >
 
 ### 🗃️ Databases
 <p>
