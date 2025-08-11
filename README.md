@@ -59,7 +59,7 @@
 </p>
 
 <p align="left">
-  <img alt="Coding" width="300" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+  <img alt="Coding" width="450" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </p>
 
 
