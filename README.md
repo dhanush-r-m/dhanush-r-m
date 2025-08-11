@@ -37,9 +37,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
 </p>
 
-<p align="right">
-  <img alt="Coding" width="150" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-</p>
 
 ### 🧑‍💻 Languages
 <p>
@@ -59,6 +56,10 @@
 
 <p align="right">
   <img alt="Coding" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lzNW52NDZ5NnJqMzdubmpnb3NnNDl0aTQyNDN6N2pydTZuYml4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif">
+</p>
+
+<p align="left">
+  <img alt="Coding" width="100" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </p>
 
 
