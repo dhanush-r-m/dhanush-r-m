@@ -1,4 +1,4 @@
-<h1 align="right">Hi 👋, I'm Dhanush Moolemane</h1>
+<h1 align="left">Hi 👋, I'm Dhanush Moolemane</h1>
 <h3 align="center">I’m an AI & ML enthusiast passionate about building intelligent systems and exploring the endless possibilities of artificial intelligence. I love working with TensorFlow, OpenCV, and AI agents, and I’m always eager to learn more and contribute to exciting projects in computer vision, deep learning, and generative AI.</h3>
 
 <p align="center">
