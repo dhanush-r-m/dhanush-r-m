@@ -31,12 +31,27 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
 </p>
 
+### 🧑‍🚀 Agentic AI Frameworks
+<p>
+  <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/langchain-logo.svg" alt="LangChain" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" alt="LangGraph" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/microsoft/autogen/main/website/static/img/logo.png" alt="AutoGen" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/62046415?s=200&v=4" alt="Haystack" width="40" height="40"/>
+</p>
+
+### 🧩 LLM Models
+<p>
+  <img src="https://avatars.githubusercontent.com/u/63415578?s=200&v=4" alt="OpenAI" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/118196100?s=200&v=4" alt="Anthropic" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/15813736?s=200&v=4" alt="Google DeepMind" width="40" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
+</p>
+
 ### 🗃️ Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
 </p>
-
 
 ### 🧑‍💻 Languages
 <p>
