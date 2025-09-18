@@ -7,12 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=dhanush-r-m&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush-r-m" />
 </p>
 
-- 🌱 I’m currently learning **LangGraph, agentic AI design patterns, and high-performance algorithms for big data.**  
-- 👯 I’m looking to collaborate on **AI/ML projects, open-source civic tech tools, and real-time data processing systems.**  
-- 🤝 I’m looking for help with **Scaling LLM-based workflows, and cross-platform deployment (Streamlit, Flask, React).**  
-- 💬 Ask me about **LLMs, LangChain, voice AI integrations, and hackathon project building.**  
+- 👨‍💻 Builder of AI systems, full-stack apps, and real-time computing projects
+- ⚡ Exploring backend, frontend, and high-performance algorithms
+- 🛠️ Love working with Python, Node.js, React, and modern AI stacks
+- 🚀 Always learning, shipping, and pushing boundaries in tech  
 - 📫 How to reach me **dhanushmoolemane@gmail.com**  
-- ⚡ Fun fact **I once fixed a bug at 3 AM and still don’t know how I did it! 🌙✨**
+- 💡 Fun fact: I debug faster with coffee than without it. ☕😅
 
 ---
 
