@@ -1,18 +1,46 @@
-<h1 align="left">Hi 👋, I'm Dhanush Moolemane</h1>
-<h3 align="left">I’m an AI & ML enthusiast passionate about building intelligent systems and exploring the endless possibilities of artificial intelligence. I love working with TensorFlow, OpenCV, and AI agents, and I’m always eager to learn more and contribute to exciting projects in computer vision, deep learning, and generative AI.</h3>
+<!-- Dynamic gradient header background -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:8B5CF6,100:EC4899&section=header" width="100%" />
 
-![Dhanush's GitHub contribution graph](https://activity-graph.vercel.app/graph?username=dhanush-r-m&theme=react-dark&hide_border=true&custom_title=GitHub%20Activity)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=45&pause=3000&color=1F2937&center=true&vCenter=false&random=false&width=600&height=70&lines=DHANUSH+MOOLEMANE" alt="Dhanush Moolemane" />
+</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dhanush-r-m&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush-r-m" />
+<h3 align="center">
+  Software Engineer × AI/ML Developer × Performance Architect
+</h3>
+
+<!-- Contact badges -->
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:dhanushmoolemane@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/Dhanush-46">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
 </p>
 
-- 👨‍💻 Builder of AI systems, full-stack apps, and real-time computing projects
-- ⚡ Exploring backend, frontend, and high-performance algorithms
-- 🛠️ Love working with Python, Node.js, React, and modern AI stacks
-- 🚀 Always learning, shipping, and pushing boundaries in tech  
-- 📫 How to reach me **dhanushmoolemane@gmail.com**  
-- 💡 Fun fact: I debug faster with coffee than without it. ☕😅
+<!-- Animated typing intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=false&multiline=true&random=false&width=800&height=60&lines=Building+systems+where+every+millisecond+counts;Scaling+from+proof-of-concept+to+production+excellence" />
+</p>
+
+<!-- Quick stats bar -->
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_1.46x-CUDA_Speedup-8B5CF6?style=flat-square&labelColor=1F2937" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎮_858_FPS-3D_Rendering-EC4899?style=flat-square&labelColor=1F2937" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎯_94%25-ML_Accuracy-10B981?style=flat-square&labelColor=1F2937" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/⏱️_<500ms-Sync_Latency-F59E0B?style=flat-square&labelColor=1F2937" />
+</p>
+
+<br>
 
 ---
 
