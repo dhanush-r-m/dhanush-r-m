@@ -136,7 +136,7 @@ Whether you're building the next breakthrough in AI, scaling systems to billions
   <img src="https://img.shields.io/badge/Send_an_Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhanush-moolemane-b690562b0/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" />
 </a>
 &nbsp;
