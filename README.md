@@ -120,13 +120,42 @@
 
 ---
 
-## 🔗 Connect with me
+## 📬 Let's Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/dhanush-moolemane-b690562b0" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/dhanushmoolemane" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+
+<br>
+
+I'm always excited to discuss challenging problems and explore how I can contribute to your team's success.
+
+Whether you're building the next breakthrough in AI, scaling systems to billions, or creating products that change lives - let's talk.
+
+<br>
+
+<a href="mailto:dhanushmoolemane@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" />
+</a>
+&nbsp;
+<a href="https://huggingface.co/Dhanush-46">
+  <img src="https://img.shields.io/badge/Hugging_Face_Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=1F2937" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=JonSnow1807&label=Profile%20Views&color=8B5CF6&style=flat" />
+
+<br>
+
+---
+
+<sub>
+  <b>Status:</b> Actively seeking new opportunities | 
+  <b>Availability:</b> Immediate | 
+  <b>Location:</b> Flexible/Remote
+</sub>
+
+</div>
