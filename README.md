@@ -44,6 +44,43 @@
 
 ---
 
+## 💡 Engineering Philosophy
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/🎯-User_First-8B5CF6?style=for-the-badge&labelColor=1F2937" />
+      <br><br>
+      <b>User First</b>
+      <br>
+      <sub>Every optimization should improve the user experience</sub>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/📊-Data_Driven-EC4899?style=for-the-badge&labelColor=1F2937" />
+      <br><br>
+      <b>Data Driven</b>
+      <br>
+      <sub>Measure twice, optimize once, validate always</sub>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/🚀-Ship_Fast-10B981?style=for-the-badge&labelColor=1F2937" />
+      <br><br>
+      <b>Ship Fast</b>
+      <br>
+      <sub>Perfect tomorrow loses to good today</sub>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/∞-Think_Scale-F59E0B?style=for-the-badge&labelColor=1F2937" />
+      <br><br>
+      <b>Think Scale</b>
+      <br>
+      <sub>Build for 10x growth from day one</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🧠 Skills
 
 ### 🤖 AI/ML Frameworks
