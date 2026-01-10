@@ -1,4 +1,4 @@
-<!-- Dynamic gradient header background -->
+<!--- Dynamic gradient header background --->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=45&pause=3000&color=1F2937&center=true&vCenter=false&random=false&width=600&height=70&lines=DHANUSH+MOOLEMANE" alt="Dhanush Moolemane" />
